@@ -11,7 +11,7 @@ git clone https://github.com/young1112/Trojan.git
 
 cd Trojan
 
-python Trojan.py
+python trojan.py
 
 
 
